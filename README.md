@@ -1,9 +1,9 @@
 <h1 align="center">💜 Olá, eu sou a Mauren 👩‍💻</h1>
 
 <p align="center">
-✨ Desenvolvedora Front-End • Estudante de Engenharia de Software ✨  
+ Desenvolvedora Front-End • Estudante de Engenharia de Software 
 <br/>
-🎨 Apaixonada por criar interfaces modernas, performáticas e visualmente impactantes
+ Apaixonada por criar interfaces modernas, performáticas e visualmente impactantes
 </p>
 
 ---
