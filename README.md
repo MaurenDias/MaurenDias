@@ -26,3 +26,33 @@
 </p>
 
 
+### 🚀 Projetos em destaque
+
+#### 💼 Plataforma de Portfólio
+Plataforma desenvolvida para apresentação profissional de projetos, com foco em organização, visual moderno e experiência do usuário.  
+**Tecnologias:** HTML • CSS • JavaScript  
+🔗 [Acessar projeto](https://maurendias.github.io/plataforma-/)
+
+---
+
+#### 🧠 Landing Page — E-book de Psicologia
+Página de vendas criada para produto digital na área de psicologia, com foco em conversão, hierarquia visual e comunicação clara.  
+**Tecnologias:** HTML • CSS • JavaScript  
+🔗 [Acessar projeto](https://maurendias.github.io/psicologia/)
+
+---
+
+#### 🏃‍♂️ Landing Page — E-book de Corrida
+Landing page voltada para a venda de e-book sobre corrida, destacando benefícios, chamada para ação e layout responsivo.  
+**Tecnologias:** HTML • CSS • JavaScript  
+🔗 [Acessar projeto](https://maurendias.github.io/ebook/)
+
+---
+
+#### 🐶 Landing Page — Produto de Adestramento Canino
+Página de vendas para produto digital de adestramento, desenvolvida com foco em usabilidade, clareza da oferta e design funcional.  
+**Tecnologias:** HTML • CSS • JavaScript  
+🔗 [Acessar projeto](https://maurendias.github.io/ebook-dog/)
+
+
+
