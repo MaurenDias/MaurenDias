@@ -8,7 +8,7 @@ Apaixonada por criar interfaces modernas, funcionais e visualmente impactantes
 
 ---
 
-### 🌱 Sobre mim
+###  Sobre mim
 - 💻 Desenvolvedora Front-End focada em experiências visuais e performance  
 - 🎓 Cursando Engenharia de Software  
 - 🚀 Facilidade em aprender novas linguagens, frameworks e sistemas  
